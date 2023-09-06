@@ -24,6 +24,6 @@ public class hollowRectangle {
         System.out.print("Enter the number of columns : ");
         int col = scan.nextInt();
         hollow_rectangle(row, col);
-        scan.close();
+        scan.close( );
     }
 }
